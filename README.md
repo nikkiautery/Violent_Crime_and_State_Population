@@ -1,4 +1,4 @@
-# Violent_Crime_and_State_Population
+# Violent Crime and State Population
 
 Experimental Machine Learning/Data Science Regression Models to Gain Insights on Violent Crimes in Relation to Jurisdiction (State) Population
 
