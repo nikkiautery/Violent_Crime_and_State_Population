@@ -7,7 +7,7 @@ library(ggplot2)
 
 #### Importing the Dataset ####
 
-dataset = read.csv('crime_and_incarceration_by_state.csv')
+dataset <- read.csv('crime_and_incarceration_by_state.csv')
 
 na <- is.na(dataset$jurisdiction)
 
